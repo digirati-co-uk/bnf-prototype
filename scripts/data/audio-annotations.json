@@ -1,0 +1,5085 @@
+{
+	"m1": [
+		{
+			"id": 3754548,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=0,4.852608",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m1",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m2": [
+		{
+			"id": 3754549,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=4.852608,8.707483",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m2",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m8": [
+		{
+			"id": 3754555,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=28.163265,32.154195",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m8",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m15": [
+		{
+			"id": 3754562,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=56.507937,60.453515",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m15",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m21": [
+		{
+			"id": 3754568,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=81.315193,84.671202",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m21",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m28": [
+		{
+			"id": 3754575,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=109.206349,112.925170",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m28",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m34": [
+		{
+			"id": 3754581,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=133.514739,137.097506",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m34",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m41": [
+		{
+			"id": 3754588,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=158.639456,162.630385",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m41",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m47": [
+		{
+			"id": 3754594,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=179.818594,183.129252",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m47",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m53": [
+		{
+			"id": 3754600,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=199.637188,203.764172",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m53",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m60": [
+		{
+			"id": 3754607,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=226.213152,229.705215",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m60",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m3": [
+		{
+			"id": 3754550,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=8.707483,12.789116",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m3",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m4": [
+		{
+			"id": 3754551,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=12.789116,16.643991",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m4",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m5": [
+		{
+			"id": 3754552,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=16.643991,20.634921",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m5",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m6": [
+		{
+			"id": 3754553,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=20.634921,23.537415",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m6",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m7": [
+		{
+			"id": 3754554,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=23.537415,28.163265",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m7",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m9": [
+		{
+			"id": 3754556,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=32.154195,36.281179",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m9",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m10": [
+		{
+			"id": 3754557,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=36.281179,40.136054",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m10",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m11": [
+		{
+			"id": 3754558,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=40.136054,44.535147",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m11",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m12": [
+		{
+			"id": 3754559,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=44.535147,48.571429",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m12",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m13": [
+		{
+			"id": 3754560,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=48.571429,52.607710",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m13",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m14": [
+		{
+			"id": 3754561,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=52.607710,56.507937",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m14",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m16": [
+		{
+			"id": 3754563,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=60.453515,64.353741",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m16",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m17": [
+		{
+			"id": 3754564,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=64.353741,68.616780",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m17",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m18": [
+		{
+			"id": 3754565,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=68.616780,73.287982",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m18",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m19": [
+		{
+			"id": 3754566,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=73.287982,77.641723",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m19",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m20": [
+		{
+			"id": 3754567,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=77.641723,81.315193",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m20",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m22": [
+		{
+			"id": 3754569,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=84.671202,89.024943",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m22",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m23": [
+		{
+			"id": 3754570,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=89.024943,93.469388",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m23",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m24": [
+		{
+			"id": 3754571,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=93.469388,97.278912",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m24",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m25": [
+		{
+			"id": 3754572,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=97.278912,101.088435",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m25",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m26": [
+		{
+			"id": 3754573,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=101.088435,105.079365",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m26",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m27": [
+		{
+			"id": 3754574,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=105.079365,109.206349",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m27",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m29": [
+		{
+			"id": 3754576,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=112.925170,116.825397",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m29",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m30": [
+		{
+			"id": 3754577,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=116.825397,120.952381",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m30",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m31": [
+		{
+			"id": 3754578,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=120.952381,124.852608",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m31",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m32": [
+		{
+			"id": 3754579,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=124.852608,128.888889",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m32",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m33": [
+		{
+			"id": 3754580,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=128.888889,133.514739",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m33",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m35": [
+		{
+			"id": 3754582,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=137.097506,140.453515",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m35",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m36": [
+		{
+			"id": 3754583,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=140.453515,143.854875",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m36",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m37": [
+		{
+			"id": 3754584,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=143.854875,147.165533",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m37",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m38": [
+		{
+			"id": 3754585,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=147.165533,150.566893",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m38",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m39": [
+		{
+			"id": 3754586,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=150.566893,154.240363",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m39",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m40": [
+		{
+			"id": 3754587,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=154.240363,158.639456",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m40",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m42": [
+		{
+			"id": 3754589,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=162.630385,165.941043",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m42",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m43": [
+		{
+			"id": 3754590,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=165.941043,169.070295",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m43",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m44": [
+		{
+			"id": 3754591,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=169.070295,172.562358",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m44",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m45": [
+		{
+			"id": 3754592,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=172.562358,176.507937",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m45",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m46": [
+		{
+			"id": 3754593,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=176.507937,179.818594",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m46",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m48": [
+		{
+			"id": 3754595,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=183.129252,186.394558",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m48",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m49": [
+		{
+			"id": 3754596,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=186.394558,189.750567",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m49",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m50": [
+		{
+			"id": 3754597,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=189.750567,193.015873",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m50",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m51": [
+		{
+			"id": 3754598,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=193.015873,196.417234",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m51",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m52": [
+		{
+			"id": 3754599,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=196.417234,199.637188",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m52",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m54": [
+		{
+			"id": 3754601,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=203.764172,207.845805",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m54",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m55": [
+		{
+			"id": 3754602,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=207.845805,211.836735",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m55",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m56": [
+		{
+			"id": 3754603,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=211.836735,215.827664",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m56",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m57": [
+		{
+			"id": 3754604,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=215.827664,219.274376",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m57",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m58": [
+		{
+			"id": 3754605,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=219.274376,222.811791",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m58",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m59": [
+		{
+			"id": 3754606,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=222.811791,226.213152",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m59",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m61": [
+		{
+			"id": 3754608,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=229.705215,233.151927",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m61",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m62": [
+		{
+			"id": 3754609,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=233.151927,237.142857",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m62",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m63": [
+		{
+			"id": 3754610,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=237.142857,242.902494",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m63",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"m64": [
+		{
+			"id": 3754611,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=242.902494,247.301587",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "/media/corpora/all/collabscore/saintsaens-audio/C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "m64",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "measure-tframe"
+		}
+	],
+	"nh_1591_1898": [
+		{
+			"id": 2337096,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=0.37,0.37",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1591_1898",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1713_1897": [
+		{
+			"id": 2337097,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=1.43,1.43",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1713_1897",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1831_1994": [
+		{
+			"id": 2337098,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=2.51,2.51",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1831_1994",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1951_1589": [
+		{
+			"id": 2337099,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=3.46,3.46",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1951_1589",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2209_1598": [
+		{
+			"id": 2337100,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=4.36,4.36",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2209_1598",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2340_1899": [
+		{
+			"id": 2337101,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=5.39,5.39",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2340_1899",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2460_1896": [
+		{
+			"id": 2337102,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=6.5,6.5",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2460_1896",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2582_1593": [
+		{
+			"id": 2337103,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=7.4,7.4",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2582_1593",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2824_1590": [
+		{
+			"id": 2337104,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=8.44,8.44",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2824_1590",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2948_1889": [
+		{
+			"id": 2337105,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=9.53,9.53",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2948_1889",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3069_1586": [
+		{
+			"id": 2337106,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=10.46,10.46",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3069_1586",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3234_1584": [
+		{
+			"id": 2337107,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=11.4,11.4",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3234_1584",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3492_1594": [
+		{
+			"id": 2337108,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=12.39,12.39",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3492_1594",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3626_1900": [
+		{
+			"id": 2337109,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=13.35,13.35",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3626_1900",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3768_1607": [
+		{
+			"id": 2337110,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=14.32,14.32",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3768_1607",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3899_1622": [
+		{
+			"id": 2337111,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=15.27,15.27",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3899_1622",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1254_2540": [
+		{
+			"id": 2337112,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=16.27,16.27",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1254_2540",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1426_2838": [
+		{
+			"id": 2337113,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=17.19,17.19",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1426_2838",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1591_2532": [
+		{
+			"id": 2337114,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=18.28,18.28",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1591_2532",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1762_2888": [
+		{
+			"id": 2337115,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=19.27,19.27",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1762_2888",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2002_2824": [
+		{
+			"id": 2337116,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=20.15,20.15",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2002_2824",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2289_2491": [
+		{
+			"id": 2337117,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=21.06,21.06",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2289_2491",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2658_2472": [
+		{
+			"id": 2337118,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=22.11,22.11",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2658_2472",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2870_2465": [
+		{
+			"id": 2337119,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=23.07,23.07",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2870_2465",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3244_2434": [
+		{
+			"id": 2337120,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=24.06,24.06",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3244_2434",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3548_2471": [
+		{
+			"id": 2337121,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=25.03,25.03",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3548_2471",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3724_2772": [
+		{
+			"id": 2337122,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=26,26",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3724_2772",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3890_2469": [
+		{
+			"id": 2337123,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=26.93,26.93",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3890_2469",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1274_3733": [
+		{
+			"id": 2337124,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=28.01,28.01",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1274_3733",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1435_3729": [
+		{
+			"id": 2337125,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=28.98,28.98",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1435_3729",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1644_3404": [
+		{
+			"id": 2337126,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=29.93,29.93",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1644_3404",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1897_3369": [
+		{
+			"id": 2337127,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=30.93,30.93",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1897_3369",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2139_3330": [
+		{
+			"id": 2337128,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=31.88,31.88",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2139_3330",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2363_3360": [
+		{
+			"id": 2337129,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=33.02,33.02",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2363_3360",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2548_3386": [
+		{
+			"id": 2337130,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=34.22,34.22",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2548_3386",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2703_3412": [
+		{
+			"id": 2337131,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=35.23,35.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2703_3412",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2956_3365": [
+		{
+			"id": 2337132,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=36.11,36.11",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2956_3365",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3102_3688": [
+		{
+			"id": 2337133,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=37.12,37.12",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3102_3688",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3233_3402": [
+		{
+			"id": 2337134,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=38.09,38.09",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3233_3402",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3376_3672": [
+		{
+			"id": 2337135,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=39.11,39.11",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3376_3672",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3556_3415": [
+		{
+			"id": 2337136,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=40.23,40.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3556_3415",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3706_3711": [
+		{
+			"id": 2337137,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=41.31,41.31",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3706_3711",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3841_3710": [
+		{
+			"id": 2337138,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=42.3,42.3",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3841_3710",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3955_3708": [
+		{
+			"id": 2337139,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=43.39,43.39",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3955_3708",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1286_4370": [
+		{
+			"id": 2337140,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=44.4,44.4",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1286_4370",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1392_4714": [
+		{
+			"id": 2337141,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=45.24,45.24",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1392_4714",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1546_4376": [
+		{
+			"id": 2337142,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=46.28,46.28",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1546_4376",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1652_4679": [
+		{
+			"id": 2337143,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=47.25,47.25",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1652_4679",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1859_4381": [
+		{
+			"id": 2337144,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=48.28,48.28",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1859_4381",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1978_4726": [
+		{
+			"id": 2337145,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=49.27,49.27",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1978_4726",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2137_4389": [
+		{
+			"id": 2337146,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=50.3,50.3",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2137_4389",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2255_4691": [
+		{
+			"id": 2337147,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=51.27,51.27",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2255_4691",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2475_4340": [
+		{
+			"id": 2337148,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=52.25,52.25",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2475_4340",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2581_4688": [
+		{
+			"id": 2337149,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=53.25,53.25",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2581_4688",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2731_4349": [
+		{
+			"id": 2337150,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=54.24,54.24",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2731_4349",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2840_4655": [
+		{
+			"id": 2337151,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=55.23,55.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2840_4655",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3025_4359": [
+		{
+			"id": 2337152,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=56.22,56.22",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3025_4359",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3137_4706": [
+		{
+			"id": 2337153,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=57.23,57.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3137_4706",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3289_4367": [
+		{
+			"id": 2337154,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=58.26,58.26",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3289_4367",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3389_4366": [
+		{
+			"id": 2337155,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=59.25,59.25",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3389_4366",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3594_4363": [
+		{
+			"id": 2337156,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=60.28,60.28",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3594_4363",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3723_4625": [
+		{
+			"id": 2337157,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=61.1,61.1",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3723_4625",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3885_4273": [
+		{
+			"id": 2337158,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=62.15,62.15",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3885_4273",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_4006_4635": [
+		{
+			"id": 2337159,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=63.1,63.1",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_4006_4635",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_800_866": [
+		{
+			"id": 2337160,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=64.15,64.15",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_800_866",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_962_867": [
+		{
+			"id": 2337161,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=65.23,65.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_962_867",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1186_937": [
+		{
+			"id": 2337162,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=66.3,66.3",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1186_937",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1339_923": [
+		{
+			"id": 2337163,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=67.41,67.41",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1339_923",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1571_881": [
+		{
+			"id": 2337164,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=68.54,68.54",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1571_881",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1689_1281": [
+		{
+			"id": 2337165,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=69.5,69.5",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1689_1281",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1803_896": [
+		{
+			"id": 2337166,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=70.62,70.62",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1803_896",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1919_1373": [
+		{
+			"id": 2337167,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=71.76,71.76",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1919_1373",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2131_908": [
+		{
+			"id": 2337168,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=73.16,73.16",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2131_908",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2246_1146": [
+		{
+			"id": 2337169,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=74.46,74.46",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2246_1146",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2362_912": [
+		{
+			"id": 2337170,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=75.57,75.57",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2362_912",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2473_1227": [
+		{
+			"id": 2337171,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=76.38,76.38",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2473_1227",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2641_1196": [
+		{
+			"id": 2337172,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=77.49,77.49",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2641_1196",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2756_1240": [
+		{
+			"id": 2337173,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=78.46,78.46",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2756_1240",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2866_1211": [
+		{
+			"id": 2337174,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=79.35,79.35",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2866_1211",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2985_1255": [
+		{
+			"id": 2337175,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=80.17,80.17",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2985_1255",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3157_1229": [
+		{
+			"id": 2337176,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=81.05,81.05",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3157_1229",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3285_1271": [
+		{
+			"id": 2337177,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=81.95,81.95",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3285_1271",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3410_1247": [
+		{
+			"id": 2337178,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=82.8,82.8",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3410_1247",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3533_1292": [
+		{
+			"id": 2337179,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=83.63,83.63",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3533_1292",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_829_2142": [
+		{
+			"id": 2337180,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=84.55,84.55",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_829_2142",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_947_2185": [
+		{
+			"id": 2337181,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=85.59,85.59",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_947_2185",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1063_2141": [
+		{
+			"id": 2337182,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=86.69,86.69",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1063_2141",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1177_2168": [
+		{
+			"id": 2337183,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=87.69,87.69",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1177_2168",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1352_2128": [
+		{
+			"id": 2337184,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=88.92,88.92",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1352_2128",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1471_2127": [
+		{
+			"id": 2337185,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=90.25,90.25",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1471_2127",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1579_2225": [
+		{
+			"id": 2337186,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=91.19,91.19",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1579_2225",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1685_1842": [
+		{
+			"id": 2337187,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=92.04,92.04",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1685_1842",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1888_1860": [
+		{
+			"id": 2337188,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=93,93",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1888_1860",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1995_2142": [
+		{
+			"id": 2337189,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=94.08,94.08",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1995_2142",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2112_2229": [
+		{
+			"id": 2337190,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=95.02,95.02",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2112_2229",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2223_1861": [
+		{
+			"id": 2337191,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=96.1,96.1",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2223_1861",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2448_1861": [
+		{
+			"id": 2337192,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=97.06,97.06",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2448_1861",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2550_2145": [
+		{
+			"id": 2337193,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=98.09,98.09",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2550_2145",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2660_1862": [
+		{
+			"id": 2337194,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=99.03,99.03",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2660_1862",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2804_1860": [
+		{
+			"id": 2337195,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=99.96,99.96",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2804_1860",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3052_1875": [
+		{
+			"id": 2337196,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=100.86,100.86",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3052_1875",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3174_1878": [
+		{
+			"id": 2337197,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=101.82,101.82",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3174_1878",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3357_1892": [
+		{
+			"id": 2337198,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=102.85,102.85",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3357_1892",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3484_2163": [
+		{
+			"id": 2337199,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=103.88,103.88",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3484_2163",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_802_2766": [
+		{
+			"id": 2337200,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=104.81,104.81",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_802_2766",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_935_3044": [
+		{
+			"id": 2337201,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=105.8,105.8",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_935_3044",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1068_2764": [
+		{
+			"id": 2337202,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=106.79,106.79",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1068_2764",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1208_3100": [
+		{
+			"id": 2337203,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=107.95,107.95",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1208_3100",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1394_3042": [
+		{
+			"id": 2337204,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=108.95,108.95",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1394_3042",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1586_2735": [
+		{
+			"id": 2337205,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=109.82,109.82",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1586_2735",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1715_2734": [
+		{
+			"id": 2337206,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=110.74,110.74",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1715_2734",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1887_2733": [
+		{
+			"id": 2337207,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=111.88,111.88",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1887_2733",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2187_2721": [
+		{
+			"id": 2337208,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=112.71,112.71",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2187_2721",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2325_2720": [
+		{
+			"id": 2337209,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=113.7,113.7",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2325_2720",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2582_2696": [
+		{
+			"id": 2337210,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=114.74,114.74",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2582_2696",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2818_2739": [
+		{
+			"id": 2337211,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=115.71,115.71",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2818_2739",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3029_3018": [
+		{
+			"id": 2337212,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=116.72,116.72",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3029_3018",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3163_2740": [
+		{
+			"id": 2337213,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=117.72,117.72",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3163_2740",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3350_2711": [
+		{
+			"id": 2337214,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=118.76,118.76",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3350_2711",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3486_2699": [
+		{
+			"id": 2337215,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=119.71,119.71",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3486_2699",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_809_3512": [
+		{
+			"id": 2337216,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=120.72,120.72",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_809_3512",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1729_3556": [
+		{
+			"id": 2337217,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=124.67,124.67",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1729_3556",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2262_3612": [
+		{
+			"id": 2337218,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=128.9,128.9",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2262_3612",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2381_3893": [
+		{
+			"id": 2337219,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=129.99,129.99",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2381_3893",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2505_3893": [
+		{
+			"id": 2337220,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=130.99,130.99",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2505_3893",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2605_3894": [
+		{
+			"id": 2337221,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=132.16,132.16",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2605_3894",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2811_3854": [
+		{
+			"id": 2337222,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=133.24,133.24",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2811_3854",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3222_3584": [
+		{
+			"id": 2337223,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=135.02,135.02",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3222_3584",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_854_4479": [
+		{
+			"id": 2337224,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=136.79,136.79",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_854_4479",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2007_4479": [
+		{
+			"id": 2337225,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=141.04,141.04",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2007_4479",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2770_4468": [
+		{
+			"id": 2337226,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=143.65,143.65",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2770_4468",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2986_4472": [
+		{
+			"id": 2337227,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=144.38,144.38",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2986_4472",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1205_973": [
+		{
+			"id": 2337228,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=146.98,146.98",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1205_973",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1671_886": [
+		{
+			"id": 2337229,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=148.68,148.68",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1671_886",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2187_887": [
+		{
+			"id": 2337230,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=150.4,150.4",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2187_887",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2650_959": [
+		{
+			"id": 2337231,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=152.15,152.15",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2650_959",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2889_947": [
+		{
+			"id": 2337232,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=153.05,153.05",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2889_947",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_3148_903": [
+		{
+			"id": 2337233,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=154.43,154.43",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_3148_903",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1209_1973": [
+		{
+			"id": 2337234,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=158.61,158.61",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1209_1973",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1563_3099": [
+		{
+			"id": 2337235,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=175.51,175.51",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1563_3099",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2121_3114": [
+		{
+			"id": 2337236,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=178.84,178.84",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2121_3114",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2320_3114": [
+		{
+			"id": 2337237,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=179.65,179.65",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2320_3114",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1359_4193": [
+		{
+			"id": 2337238,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=190.58,190.58",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1359_4193",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2684_4164": [
+		{
+			"id": 2337239,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=196.23,196.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2684_4164",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_812_920": [
+		{
+			"id": 2337240,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=203.39,203.39",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_812_920",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1145_943": [
+		{
+			"id": 2337241,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=205.16,205.16",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1145_943",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2778_1057": [
+		{
+			"id": 2337242,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=211.7,211.7",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2778_1057",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_803_2002": [
+		{
+			"id": 2337243,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=215.63,215.63",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_803_2002",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1745_2043": [
+		{
+			"id": 2337244,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=219.24,219.24",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1745_2043",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2726_2029": [
+		{
+			"id": 2337245,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=222.69,222.69",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2726_2029",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_802_3071": [
+		{
+			"id": 2337246,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=225.99,225.99",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_802_3071",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1767_3095": [
+		{
+			"id": 2337247,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=229.51,229.51",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1767_3095",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2716_3017": [
+		{
+			"id": 2337248,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=233.15,233.15",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2716_3017",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_797_4125": [
+		{
+			"id": 2337249,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=237.09,237.09",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_797_4125",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_1492_4150": [
+		{
+			"id": 2337250,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=242.62,242.62",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_1492_4150",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"nh_2946_4528": [
+		{
+			"id": 2337251,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=252.8,252.8",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "nh_2946_4528",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	],
+	"F4part1M672E4": [
+		{
+			"id": 2337252,
+			"body": {
+				"source": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "t=257.23,257.23",
+					"conformsTo": "https://www.w3.org/TR/media-frags/#naming-time"
+				}
+			},
+			"target": {
+				"source": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-audio-C055_0/score.xml",
+				"selector": {
+					"type": "FragmentSelector",
+					"value": "F4part1M672E4",
+					"conformsTo": "http://tools.ietf.org/rfc/rfc3023"
+				}
+			},
+			"annotation_model": "time-frame",
+			"annotation_concept": "note-tframe"
+		}
+	]
+}
