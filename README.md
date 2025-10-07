@@ -32,8 +32,8 @@ The structure of that Manifest is as follows:
 
 The Manifest can be viewed inside of Theseus or IIIF Canvas Panel framework:
 
-- [Theseus Viewer](https://theseusviewer.org/?iiif-content=https%3A%2F%2Fgist.githubusercontent.com%2Fstephenwf%2F5092325557d706b5be0eb8bb76afebe1%2Fraw%2F20568c55e9361e96dc913c64a1312b15d5cdeb5d%2Fmanifest.json)
-- [React IIIF Vault](https://react-iiif-vault-demo.netlify.app/#manifest=https%3A%2F%2Fgist.githubusercontent.com%2Fstephenwf%2F5092325557d706b5be0eb8bb76afebe1%2Fraw%2F20568c55e9361e96dc913c64a1312b15d5cdeb5d%2Fmanifest.json)
+- [Theseus Viewer](https://theseusviewer.org/?iiif-content=https%3A%2F%2Fgist.githubusercontent.com%2Fstephenwf%2Fe1c94fdb89a208e6b536457832fb3c8b%2Fraw%2F367f4cfd67f24b9b7918df669d7779c199c69833%2Fmanifest.json)
+- [React IIIF Vault](https://react-iiif-vault-demo.netlify.app/#manifest=https%3A%2F%2Fgist.githubusercontent.com%2Fstephenwf%2Fe1c94fdb89a208e6b536457832fb3c8b%2Fraw%2F367f4cfd67f24b9b7918df669d7779c199c69833%2Fmanifest.json)
 
 There are some limitations in this proof of concept due to the time constraints of the data modelling. Most issues could be fixed with
 a better analysis of the data and making logical links between the MusicXML and the IIIF.
