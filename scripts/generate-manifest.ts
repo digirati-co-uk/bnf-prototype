@@ -264,7 +264,7 @@ function orderCanvasMapping(canvasMinMax: Record<string, { min: number; max: num
 // Test the function
 const orderedCanvases = orderCanvasMapping(canvasMinMax);
 
-const audioCanvas = audioManifest.items[0];
+const audioCanvas = audioManifest.items[2];
 const canvasId = audioCanvas.id;
 
 const width = Math.max(

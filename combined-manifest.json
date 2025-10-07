@@ -8,36 +8,36 @@
   },
   "items": [
     {
-      "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4",
+      "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4",
       "type": "Canvas",
       "label": {
         "en": [
           "Canvas 1"
         ]
       },
-      "duration": 221,
+      "duration": 257,
       "width": 4564,
       "height": 6174,
       "items": [
         {
-          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+          "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4/annotation/6",
+              "id": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/1.audio",
+                "id": "https://openapi.bnf.fr/iiif/audio/v3/ark:/12148/bpt6k88448791/3.audio",
                 "type": "Sound",
                 "label": {
                   "none": [
-                    "Plage 1 : duree=0:03:41 Les âmes 2015-01-14 Interprete:Marguerite Santreuil, Yvette Mathy-Josse Auteur:Paul Demouth"
+                    "Plage 1 : duree=0:04:17 Aimons-nous 2015-01-14 Interprete:Marguerite Santreuil, Yvette Mathy-Josse Auteur:Théodore Faullin de Banville"
                   ]
                 },
                 "format": "audio/mpeg"
               },
-              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4"
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4"
             },
             {
               "id": "https://example/image-anno/0",
@@ -59,7 +59,7 @@
                   ]
                 }
               ],
-              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4#xywh=0,0,4512,6174&t=0,63.625"
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4#xywh=0,0,4512,6174&t=0,64.353741"
             },
             {
               "id": "https://example/image-anno/1",
@@ -81,7 +81,7 @@
                   ]
                 }
               ],
-              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4#xywh=0,0,4564,6174&t=63.625,145.68"
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4#xywh=0,0,4564,6174&t=64.353741,147.165533"
             },
             {
               "id": "https://example/image-anno/2",
@@ -103,7 +103,7 @@
                   ]
                 }
               ],
-              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4#xywh=0,0,4512,6174&t=145.68,199.81"
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4#xywh=0,0,4512,6174&t=147.165533,203.764172"
             },
             {
               "id": "https://example/image-anno/3",
@@ -125,7 +125,7 @@
                   ]
                 }
               ],
-              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4#xywh=0,0,4564,6174&t=199.81,242.62"
+              "target": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4#xywh=0,0,4564,6174&t=203.764172,247.301587"
             }
           ]
         }
@@ -136,2041 +136,1281 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example/image-anno/nh_1591_1898",
+              "id": "https://example/image-anno/m1",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1591,1898 1591,1929 1625,1898 1625,1929\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1221,1589 2151,1589 1221,2266 2161,2266\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=0.37,0.8999999999999999"
+                    "value": "t=0,4.852608"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1713_1897",
+              "id": "https://example/image-anno/m2",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1713,1897 1713,1927 1745,1897 1745,1927\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2151,1589 2766,1589 2161,2266 2775,2266\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=0.8999999999999999,2.445"
+                    "value": "t=4.852608,8.707483"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1951_1589",
+              "id": "https://example/image-anno/m3",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1951,1589 1951,1619 1982,1589 1982,1619\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2766,1589 3425,1589 2775,2266 3433,2266\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=2.445,3.91"
+                    "value": "t=8.707483,12.789116"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2209_1598",
+              "id": "https://example/image-anno/m4",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2209,1598 2209,1629 2241,1598 2241,1629\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3425,1589 4097,1589 3433,2266 4101,2266\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=3.91,4.875"
+                    "value": "t=12.789116,16.643991"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2340_1899",
+              "id": "https://example/image-anno/m5",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2340,1899 2340,1927 2373,1899 2373,1927\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"971,2493 1935,2493 971,3192 1945,3192\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=4.875,5.945"
+                    "value": "t=16.643991,20.634921"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2460_1896",
+              "id": "https://example/image-anno/m6",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2460,1896 2460,1925 2493,1896 2493,1925\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1935,2493 3186,2493 1945,3192 3195,3192\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=5.945,6.95"
+                    "value": "t=20.634921,23.537415"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2582_1593",
+              "id": "https://example/image-anno/m7",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2582,1593 2582,1622 2613,1593 2613,1622\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3186,2493 4104,2493 3195,3192 4112,3192\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=6.95,7.92"
+                    "value": "t=23.537415,28.163265"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2824_1590",
+              "id": "https://example/image-anno/m8",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2824,1590 2824,1621 2856,1590 2856,1621\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"983,3414 2089,3414 983,4135 2101,4135\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=7.92,9.45"
+                    "value": "t=28.163265,32.154195"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3069_1586",
+              "id": "https://example/image-anno/m9",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3069,1586 3069,1616 3100,1586 3100,1616\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2089,3414 2873,3414 2101,4135 2881,4135\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=9.45,10.93"
+                    "value": "t=32.154195,36.281179"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3234_1584",
+              "id": "https://example/image-anno/m10",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3234,1584 3234,1613 3266,1584 3266,1613\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2873,3414 3502,3414 2881,4135 3512,4135\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=10.93,11.895"
+                    "value": "t=36.281179,40.136054"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3492_1594",
+              "id": "https://example/image-anno/m11",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3492,1594 3492,1625 3524,1594 3524,1625\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3502,3414 4115,3414 3512,4135 4125,4135\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=11.895,12.870000000000001"
+                    "value": "t=40.136054,44.535147"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3626_1900",
+              "id": "https://example/image-anno/m12",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3626,1900 3626,1930 3658,1900 3658,1930\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"994,4367 1769,4367 994,5091 1777,5091\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=12.870000000000001,14.309999999999999"
+                    "value": "t=44.535147,48.571429"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3899_1622",
+              "id": "https://example/image-anno/m13",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3899,1622 3899,1651 3930,1622 3930,1651\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1769,4367 2417,4367 1777,5091 2426,5091\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=14.309999999999999,17.71"
+                    "value": "t=48.571429,52.60771"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2002_2824",
+              "id": "https://example/image-anno/m14",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2002,2824 2002,2853 2033,2824 2033,2853\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2417,4367 2940,4367 2426,5091 2948,5091\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=17.71,20.604999999999997"
+                    "value": "t=52.60771,56.507937"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2289_2491",
+              "id": "https://example/image-anno/m15",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2289,2491 2289,2520 2320,2491 2320,2520\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2940,4367 3539,4367 2948,5091 3547,5091\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=20.604999999999997,23.045"
+                    "value": "t=56.507937,60.453515"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3548_2471",
+              "id": "https://example/image-anno/m16",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3548,2471 3548,2503 3581,2471 3581,2503\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3539,4367 4129,4367 3547,5091 4142,5091\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=23.045,25.515"
+                    "value": "t=60.453515,64.353741"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3724_2772",
+              "id": "https://example/image-anno/m17",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3724,2772 3724,2800 3756,2772 3756,2800\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"519,896 1520,896 519,1647 1522,1647\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=25.515,27.005000000000003"
+                    "value": "t=64.353741,68.61678"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1274_3733",
+              "id": "https://example/image-anno/m18",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1274,3733 1274,3762 1306,3733 1306,3762\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1520,896 2075,896 1522,1647 2072,1647\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=27.005000000000003,28.495"
+                    "value": "t=68.61678,73.287982"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1435_3729",
+              "id": "https://example/image-anno/m19",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1435,3729 1435,3758 1467,3729 1467,3758\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2075,896 2595,896 2072,1647 2594,1647\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=28.495,29.455"
+                    "value": "t=73.287982,77.641723"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1644_3404",
+              "id": "https://example/image-anno/m20",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1644,3404 1644,3436 1675,3404 1675,3436\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2595,896 3110,896 2594,1647 3107,1647\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=29.455,30.905"
+                    "value": "t=77.641723,81.315193"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2139_3330",
+              "id": "https://example/image-anno/m21",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2139,3330 2139,3361 2171,3330 2171,3361\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3110,896 3661,896 3107,1647 3655,1647\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=30.905,32.45"
+                    "value": "t=81.315193,84.671202"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2363_3360",
+              "id": "https://example/image-anno/m22",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2363,3360 2363,3391 2395,3360 2395,3391\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"522,1832 1294,1832 522,2524 1300,2524\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=32.45,33.620000000000005"
+                    "value": "t=84.671202,89.024943"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2548_3386",
+              "id": "https://example/image-anno/m23",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2548,3386 2548,3416 2579,3386 2579,3416\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1294,1832 1837,1832 1300,2524 1842,2524\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=33.620000000000005,35.67"
+                    "value": "t=89.024943,93.469388"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3102_3688",
+              "id": "https://example/image-anno/m24",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3102,3688 3102,3718 3134,3688 3134,3718\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1837,1832 2392,1832 1842,2524 2394,2524\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=35.67,38.114999999999995"
+                    "value": "t=93.469388,97.278912"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3376_3672",
+              "id": "https://example/image-anno/m25",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3376,3672 3376,3702 3408,3672 3408,3702\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2392,1832 2988,1832 2394,2524 2991,2524\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=38.114999999999995,40.21"
+                    "value": "t=97.278912,101.088435"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3706_3711",
+              "id": "https://example/image-anno/m26",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3706,3711 3706,3741 3738,3711 3738,3741\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2988,1832 3659,1832 2991,2524 3652,2524\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=40.21,41.805"
+                    "value": "t=101.088435,105.079365"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3841_3710",
+              "id": "https://example/image-anno/m27",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3841,3710 3841,3740 3872,3710 3872,3740\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"522,2713 1335,2713 522,3369 1338,3369\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=41.805,42.845"
+                    "value": "t=105.079365,109.206349"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3955_3708",
+              "id": "https://example/image-anno/m28",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3955,3708 3955,3739 3986,3708 3986,3739\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1335,2713 2144,2713 1338,3369 2148,3369\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=42.845,44.315"
+                    "value": "t=109.206349,112.92517"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1392_4714",
+              "id": "https://example/image-anno/m29",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1392,4714 1392,4744 1425,4714 1425,4744\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2144,2713 2973,2713 2148,3369 2974,3369\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=44.315,45.760000000000005"
+                    "value": "t=112.92517,116.825397"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1546_4376",
+              "id": "https://example/image-anno/m30",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1546,4376 1546,4408 1578,4376 1578,4408\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2973,2713 3656,2713 2974,3369 3659,3369\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=45.760000000000005,47.28"
+                    "value": "t=116.825397,120.952381"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1859_4381",
+              "id": "https://example/image-anno/m31",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1859,4381 1859,4413 1892,4381 1892,4413\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"523,3563 1616,3563 523,4260 1617,4260\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=47.28,49.775000000000006"
+                    "value": "t=120.952381,124.852608"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2255_4691",
+              "id": "https://example/image-anno/m32",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2255,4691 2255,4721 2287,4691 2287,4721\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1616,3563 2206,3563 1617,4260 2206,4260\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=49.775000000000006,51.760000000000005"
+                    "value": "t=124.852608,128.888889"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2475_4340",
+              "id": "https://example/image-anno/m33",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2475,4340 2475,4372 2506,4340 2506,4372\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2206,3563 2744,3563 2206,4260 2746,4260\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=51.760000000000005,52.75"
+                    "value": "t=128.888889,133.514739"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2581_4688",
+              "id": "https://example/image-anno/m34",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2581,4688 2581,4718 2613,4688 2613,4718\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2744,3563 3656,3563 2746,4260 3658,4260\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=52.75,53.745000000000005"
+                    "value": "t=133.514739,137.097506"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2731_4349",
+              "id": "https://example/image-anno/m35",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2731,4349 2731,4381 2764,4349 2764,4381\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"522,4444 1732,4444 522,5129 1732,5129\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=53.745000000000005,55.735"
+                    "value": "t=137.097506,140.453515"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3137_4706",
+              "id": "https://example/image-anno/m36",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3137,4706 3137,4736 3169,4706 3169,4736\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1732,4444 2668,4444 1732,5129 2672,5129\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=55.735,57.745"
+                    "value": "t=140.453515,143.854875"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3289_4367",
+              "id": "https://example/image-anno/m37",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3289,4367 3289,4397 3320,4367 3320,4397\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2668,4444 3657,4444 2672,5129 3661,5129\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=57.745,59.269999999999996"
+                    "value": "t=143.854875,147.165533"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3594_4363",
+              "id": "https://example/image-anno/m38",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3594,4363 3594,4393 3626,4363 3626,4393\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"913,920 2130,920 913,1680 2135,1680\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=59.269999999999996,61.215"
+                    "value": "t=147.165533,150.566893"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3885_4273",
+              "id": "https://example/image-anno/m39",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3885,4273 3885,4305 3919,4273 3919,4305\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2130,920 3087,920 2135,1680 3092,1680\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=61.215,62.625"
+                    "value": "t=150.566893,154.240363"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_4006_4635",
+              "id": "https://example/image-anno/m40",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"4006,4635 4006,4665 4038,4635 4038,4665\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3087,920 4053,920 3092,1680 4060,1680\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=62.625,63.625"
+                    "value": "t=154.240363,158.639456"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_800_866",
+              "id": "https://example/image-anno/m41",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"800,866 800,896 831,866 831,896\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"918,1966 1842,1966 918,2813 1844,2813\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=63.625,65.225"
+                    "value": "t=158.639456,162.630385"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1186_937",
+              "id": "https://example/image-anno/m42",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1186,937 1186,966 1217,937 1217,966\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1842,1966 2577,1966 1844,2813 2578,2813\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=65.225,66.85499999999999"
+                    "value": "t=162.630385,165.941043"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1339_923",
+              "id": "https://example/image-anno/m43",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1339,923 1339,952 1369,923 1369,952\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2577,1966 3307,1966 2578,2813 3305,2813\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=66.85499999999999,68.455"
+                    "value": "t=165.941043,169.070295"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1689_1281",
+              "id": "https://example/image-anno/m44",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1689,1281 1689,1310 1719,1281 1719,1310\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3307,1966 4054,1966 3305,2813 4053,2813\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=68.455,70.06"
+                    "value": "t=169.070295,172.562358"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1803_896",
+              "id": "https://example/image-anno/m45",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1803,896 1803,925 1833,896 1833,925\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"913,3090 1699,3090 913,3861 1698,3861\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=70.06,71.19"
+                    "value": "t=172.562358,176.507937"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1919_1373",
+              "id": "https://example/image-anno/m46",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1919,1373 1919,1401 1950,1373 1950,1401\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1699,3090 2260,3090 1698,3861 2261,3861\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=71.19,72.46000000000001"
+                    "value": "t=176.507937,179.818594"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2131_908",
+              "id": "https://example/image-anno/m47",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2131,908 2131,940 2164,908 2164,940\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2260,3090 2849,3090 2261,3861 2850,3861\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=72.46000000000001,73.81"
+                    "value": "t=179.818594,183.129252"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2246_1146",
+              "id": "https://example/image-anno/m48",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2246,1146 2246,1178 2279,1146 2279,1178\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2849,3090 3464,3090 2850,3861 3465,3861\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=73.81,75.41999999999999"
+                    "value": "t=183.129252,186.394558"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2473_1227",
+              "id": "https://example/image-anno/m49",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2473,1227 2473,1255 2504,1227 2504,1255\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3464,3090 4051,3090 3465,3861 4051,3861\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=75.41999999999999,76.935"
+                    "value": "t=186.394558,189.750567"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2641_1196",
+              "id": "https://example/image-anno/m50",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2641,1196 2641,1226 2673,1196 2673,1226\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"907,4144 1875,4144 907,4925 1877,4925\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=76.935,77.975"
+                    "value": "t=189.750567,193.015873"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2756_1240",
+              "id": "https://example/image-anno/m51",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2756,1240 2756,1268 2787,1240 2787,1268\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1875,4144 2630,4144 1877,4925 2629,4925\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=77.975,78.905"
+                    "value": "t=193.015873,196.417234"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2866_1211",
+              "id": "https://example/image-anno/m52",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2866,1211 2866,1241 2897,1211 2897,1241\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2630,4144 3322,4144 2629,4925 3325,4925\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=78.905,79.75999999999999"
+                    "value": "t=196.417234,199.637188"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_2985_1255",
+              "id": "https://example/image-anno/m53",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2985,1255 2985,1283 3017,1255 3017,1283\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3322,4144 4048,4144 3325,4925 4047,4925\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=79.75999999999999,81.06"
+                    "value": "t=199.637188,203.764172"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3285_1271",
+              "id": "https://example/image-anno/m54",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3285,1271 3285,1300 3317,1271 3317,1300\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"508,963 1825,963 508,1702 1825,1702\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=81.06,82.375"
+                    "value": "t=203.764172,207.845805"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3410_1247",
+              "id": "https://example/image-anno/m55",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3410,1247 3410,1276 3442,1247 3442,1276\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1825,963 2731,963 1825,1702 2734,1702\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=82.375,83.215"
+                    "value": "t=207.845805,211.836735"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_3533_1292",
+              "id": "https://example/image-anno/m56",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3533,1292 3533,1320 3565,1292 3565,1320\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2731,963 3650,963 2734,1702 3649,1702\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=83.215,84.09"
+                    "value": "t=211.836735,215.827664"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_829_2142",
+              "id": "https://example/image-anno/m57",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"829,2142 829,2171 860,2142 860,2171\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"504,1989 1681,1989 504,2767 1683,2767\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=84.09,85.07"
+                    "value": "t=215.827664,219.274376"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_947_2185",
+              "id": "https://example/image-anno/m58",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"947,2185 947,2213 978,2185 978,2213\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1681,1989 2671,1989 1683,2767 2675,2767\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=85.07,86.14"
+                    "value": "t=219.274376,222.811791"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1063_2141",
+              "id": "https://example/image-anno/m59",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1063,2141 1063,2170 1096,2141 1096,2170\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2671,1989 3643,1989 2675,2767 3638,2767\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=86.14,87.19"
+                    "value": "t=222.811791,226.213152"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1177_2168",
+              "id": "https://example/image-anno/m60",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1177,2168 1177,2196 1208,2168 1208,2196\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"494,3030 1726,3030 494,3854 1725,3854\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=87.19,88.305"
+                    "value": "t=226.213152,229.705215"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1352_2128",
+              "id": "https://example/image-anno/m61",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1352,2128 1352,2158 1385,2128 1385,2158\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1726,3030 2670,3030 1725,3854 2613,3854\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=88.305,89.58500000000001"
+                    "value": "t=229.705215,233.151927"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1471_2127",
+              "id": "https://example/image-anno/m62",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1471,2127 1471,2158 1502,2127 1502,2158\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2670,3030 3633,3030 2613,3854 3634,3854\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=89.58500000000001,91.14500000000001"
+                    "value": "t=233.151927,237.142857"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1685_1842",
+              "id": "https://example/image-anno/m63",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1685,1842 1685,1873 1717,1842 1717,1873\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"489,4144 1430,4144 489,4939 1433,4939\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=91.14500000000001,93.06"
+                    "value": "t=237.142857,242.902494"
                   }
                 ]
               }
             },
             {
-              "id": "https://example/image-anno/nh_1995_2142",
+              "id": "https://example/image-anno/m64",
               "type": "Annotation",
               "motivation": "highlighting",
               "target": {
                 "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
+                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-6-6-2-4/annotationpage/6",
                 "selector": [
                   {
                     "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1995,2142 1995,2170 2027,2142 2027,2170\" /></svg>"
+                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1430,4144 2016,4144 1433,4939 2018,4939\" /></svg>"
                   },
                   {
                     "type": "FragmentSelector",
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=93.06,95.09"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2223_1861",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2223,1861 2223,1889 2254,1861 2254,1889\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=95.09,96.58"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2448_1861",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2448,1861 2448,1892 2481,1861 2481,1892\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=96.58,97.575"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2550_2145",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2550,2145 2550,2173 2583,2145 2583,2173\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=97.575,99.025"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2804_1860",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2804,1860 2804,1890 2834,1860 2834,1890\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=99.025,100.41"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3052_1875",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3052,1875 3052,1906 3083,1875 3083,1906\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=100.41,101.85499999999999"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3357_1892",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3357,1892 3357,1921 3388,1892 3388,1921\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=101.85499999999999,103.83"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_802_2766",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"802,2766 802,2796 834,2766 834,2796\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=103.83,105.305"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_935_3044",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"935,3044 935,3072 967,3044 967,3072\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=105.305,106.875"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1208_3100",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1208,3100 1208,3130 1240,3100 1240,3130\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=106.875,109.91499999999999"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1887_2733",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1887,2733 1887,2764 1918,2733 1918,2764\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=109.91499999999999,112.29499999999999"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2187_2721",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2187,2721 2187,2751 2218,2721 2218,2751\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=112.29499999999999,113.205"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2325_2720",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2325,2720 2325,2751 2356,2720 2356,2751\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=113.205,114.705"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2818_2739",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2818,2739 2818,2768 2850,2739 2850,2768\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=114.705,116.215"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3029_3018",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3029,3018 3029,3046 3061,3018 3061,3046\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=116.215,117.22"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3163_2740",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3163,2740 3163,2770 3194,2740 3194,2770\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=117.22,121.195"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1729_3556",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1729,3556 1729,3587 1762,3556 1762,3587\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=121.195,127.83000000000001"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2505_3893",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2505,3893 2505,3921 2537,3893 2537,3921\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=127.83000000000001,131.575"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2605_3894",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2605,3894 2605,3922 2636,3894 2636,3922\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=131.575,133.59"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3222_3584",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"3222,3584 3222,3615 3254,3584 3254,3615\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=133.59,135.905"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_854_4479",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"854,4479 854,4510 885,4479 885,4510\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=135.905,138.915"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2007_4479",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2007,4479 2007,4509 2039,4479 2039,4509\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=138.915,142.70999999999998"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2986_4472",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2986,4472 2986,4503 3018,4472 3018,4503\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=142.70999999999998,145.68"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1205_973",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1205,973 1205,1002 1235,973 1235,1002\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=145.68,148.69"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2187_887",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2187,887 2187,917 2218,887 2218,917\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=148.69,151.275"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2650_959",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2650,959 2650,988 2681,959 2681,988\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=151.275,152.60000000000002"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2889_947",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2889,947 2889,976 2920,947 2920,976\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=152.60000000000002,153.74"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_3148_903",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"3148,903 3148,935 3180,903 3180,935\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=153.74,164.97"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1563_3099",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1563,3099 1563,3130 1594,3099 1594,3130\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=164.97,177.175"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2121_3114",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2121,3114 2121,3143 2152,3114 2152,3143\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=177.175,184.71"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1359_4193",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"1359,4193 1359,4223 1390,4193 1390,4223\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=184.71,193.405"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2684_4164",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4512 6174\" width=\"4512\" height=\"6174\"><polygon points=\"2684,4164 2684,4194 2716,4164 2716,4194\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=193.405,199.81"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_812_920",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"812,920 812,951 843,920 843,951\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=199.81,211.315"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1745_2043",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1745,2043 1745,2073 1775,2043 1775,2073\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=211.315,220.965"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_2726_2029",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"2726,2029 2726,2060 2757,2029 2757,2060\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=220.965,224.34"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_802_3071",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"802,3071 802,3101 833,3071 833,3101\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=224.34,227.75"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1767_3095",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1767,3095 1767,3124 1798,3095 1798,3124\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=227.75,233.3"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_797_4125",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"797,4125 797,4157 830,4125 830,4157\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=233.3,239.85500000000002"
-                  }
-                ]
-              }
-            },
-            {
-              "id": "https://example/image-anno/nh_1492_4150",
-              "type": "Annotation",
-              "motivation": "highlighting",
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://openapi.bnf.fr/iiif/presentation/v3/ark:/12148/bpt6k88448791/canvas/4-4-6-2-4/annotationpage/4",
-                "selector": [
-                  {
-                    "type": "SvgSelector",
-                    "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4564 6174\" width=\"4564\" height=\"6174\"><polygon points=\"1492,4150 1492,4181 1539,4150 1539,4181\" /></svg>"
-                  },
-                  {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": "t=239.85500000000002,242.62"
+                    "value": "t=242.902494,247.301587"
                   }
                 ]
               }
